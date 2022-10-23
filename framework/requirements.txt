@@ -2,7 +2,7 @@ aiohttp-cache==2.0.2
 aiohttp-cors==0.7.0
 aiohttp-jinja2==1.2.0
 aiohttp-swagger==1.0.14
-aiohttp==3.6.2
+aiohttp==3.8.0
 asn1crypto==1.3.0
 azure-common==1.1.25
 azure-storage-blob==2.1.0
@@ -16,7 +16,7 @@ chardet==3.0.4
 Click==7.0
 clickclick==1.2.2
 connexion==2.6.0
-cryptography==3.2.1
+cryptography==3.3.2
 defusedxml==0.6.0
 docker-pycreds==0.4.0
 docker==4.2.0
@@ -54,7 +54,7 @@ setuptools==46.1.3
 six==1.14.0
 SQLAlchemy==1.3.11
 swagger-ui-bundle==0.0.3
-urllib3==1.25.9
+urllib3==1.26.5
 uvloop==0.14.0
 websocket-client==0.57.0
 Werkzeug==1.0.1
